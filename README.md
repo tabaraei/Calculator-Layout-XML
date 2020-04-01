@@ -2,12 +2,10 @@
 Simple layout for your calculator project with Android Studio
 
 ## How to use
-1- Create a new android studio project
+### If you need a whole project:
+Clone or download the project and enjoy
 
-2- Inside application directory, goto {Directory_Name}\app\src\main\res
-
-3- Replace these "values" and "layout" folders with existing ones
-
-4- Run project, you are ready to go!
+### If you have an existing project:
+download and replace "\app\src\main\res\layout" and "\app\src\main\res\values" folders within your project
 
 ![Calculator](https://user-images.githubusercontent.com/36487462/78119983-79d40380-741e-11ea-82be-d5ca8810ddb8.png)
